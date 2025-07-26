@@ -1,5 +1,9 @@
 # earthquakes_project_qgis
 This project visualizes the 10 deadliest earthquakes around the world between 2000 and 2020, based on total fatalities, using QGIS. The map pinpoints locations, annotates key details (death tolls, affected regions), and overlays significant earthquake data with global fault lines for clear spatial context.  
+# Credit Goes to: 
+=> Spatial Thoughts
+tutorial link:https://youtu.be/pGm7w-LywO0?si=1RYQoWT2xb0gkF6O
+
 # Features Global Map Display: 
 Highlights the most fatal earthquakes from 2000–2020.  
 # Data Annotation: 
