@@ -1,0 +1,1 @@
+# earthquakes_project_qgis
